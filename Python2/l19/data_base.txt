@@ -1,0 +1,6 @@
+{
+	"login": "lllll",
+	"addres": "dddddd",
+	"phone number": "8-(989)-457-05-81",
+	"product": "ћ€ч дл€ баскета"
+}

@@ -1,0 +1,4 @@
+title = MusicBox
+author = Djamal
+orientation = landscape
+version = 1.0
